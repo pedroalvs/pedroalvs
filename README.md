@@ -12,9 +12,9 @@
 <br><br>
 
 <div align="center"> 
-  <a href="https://discord.com/users/550596944188276737"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedroalvs/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://steamcommunity.com/id/pewborges/"><img src="https://img.shields.io/badge/Steam-133064?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://discord.com/users/550596944188276737" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedroalvs/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://steamcommunity.com/id/pewborges/" target="_blank"><img src="https://img.shields.io/badge/Steam-133064?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=000&height=150&section=footer)
